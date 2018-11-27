@@ -1,2 +1,4 @@
 # Validity-index
-validity index + fuzzy k-means for unsupervised learning
+validity index from scratch for unsupervised learning.
+- Determination of the Partition index Vsc ( Bensaid and Hall)
+- Determination of the number of clusters for unsupervised learning.
